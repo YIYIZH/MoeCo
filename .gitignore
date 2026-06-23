@@ -1,0 +1,37 @@
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Environments
+.venv/
+venv/
+env/
+*.egg-info/
+
+# Training outputs
+__checkpoint__/
+checkpoints/
+wandb/
+runs/
+logs/
+all_results/
+visual_results/
+figures/
+*.log
+*.out
+nohup.out
+
+# Large feature/model artifacts
+*.pkl
+*.ckpt
+*.pt
+*.pth.tar
+
+# Generated KD-MoE GMM prototypes are released separately.
+gmm/
+
+# OS/editor
+.DS_Store
+.vscode/
+.idea/

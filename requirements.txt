@@ -1,0 +1,15 @@
+torch>=2.0.0
+torchvision>=0.15.0
+numpy
+scipy
+pandas
+scikit-learn
+matplotlib
+Pillow
+tqdm
+einops
+fvcore
+wandb
+opencv-python
+ftfy
+regex
