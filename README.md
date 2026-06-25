@@ -1,5 +1,7 @@
 # Optimize Surgical Triplet Recognition: A Knowledge-Driven Mixture-of-Experts Solution
 
+![image](tmi.pdf)
+
 This repository contains a partial code release for surgical triplet recognition on CholecT45/CholecT50. It currently provides the cleaned model, dataset, loss, and lightweight descriptor files used by MoeCo.
 
 A full artifact package, including the training entry script, GMM files, and pre-extracted feature files, will be released after paper acceptance.
