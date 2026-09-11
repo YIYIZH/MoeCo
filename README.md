@@ -56,4 +56,4 @@ Install the PyTorch build matching your CUDA version from the official PyTorch w
 
 - MLLM-generated instrument attributes are included in `dataloader.py`.
 - Some files still contain absolute paths inherited from the experimental environment. These paths will be cleaned in the full artifact release.
-- The spatial features should be trained and extracted using [TERL] (\link https://github.com/CIAM-Group/ComputerVision_Codes/tree/main/TERL). 
+- The spatial features should be trained and extracted using [TERL](https://github.com/CIAM-Group/ComputerVision_Codes/tree/main/TERL). 
