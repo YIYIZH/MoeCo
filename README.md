@@ -2,10 +2,7 @@
 
 ![image](tmi.png)
 
-This repository contains a partial code release for surgical triplet recognition on CholecT45/CholecT50. It currently provides the cleaned model, dataset, loss, and lightweight descriptor files used by MoeCo.
-
-A full artifact package, including the training entry script, GMM files, and pre-extracted feature files, will be released after paper acceptance.
-
+This repository contains a code release for surgical triplet recognition on CholecT45/CholecT50.
 ## Repository Contents
 
 ```text
@@ -59,4 +56,3 @@ Install the PyTorch build matching your CUDA version from the official PyTorch w
 
 - MLLM-generated instrument attributes are included in `dataloader.py`.
 - Some files still contain absolute paths inherited from the experimental environment. These paths will be cleaned in the full artifact release.
-- Complete runnable training/evaluation code will be released after paper acceptance.
